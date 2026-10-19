@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LapTrinhTrucQuan\\SourcesCode\\6551071013_TruongNgocDanh_BTLT9\\QL_ChiTieu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D39346EA-A879-4D2F-8134-470C4845DF86}|QL_ChiTieu.csproj|d:\\laptrinhtrucquan\\sourcescode\\6551071013_truongngocdanh_btlt9\\ql_chitieu\\formchitieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D39346EA-A879-4D2F-8134-470C4845DF86}|QL_ChiTieu.csproj|solutionrelative:formchitieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormChiTieu.cs",
+              "DocumentMoniker": "D:\\LapTrinhTrucQuan\\SourcesCode\\6551071013_TruongNgocDanh_BTLT9\\QL_ChiTieu\\FormChiTieu.cs",
+              "RelativeDocumentMoniker": "FormChiTieu.cs",
+              "ToolTip": "D:\\LapTrinhTrucQuan\\SourcesCode\\6551071013_TruongNgocDanh_BTLT9\\QL_ChiTieu\\FormChiTieu.cs",
+              "RelativeToolTip": "FormChiTieu.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwEwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T04:04:29.261Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
